@@ -1,8 +1,6 @@
 # Hackathon----Tableau
 Creating an interactive platform that stands in users’ point of view. The target audience : anyone who looking for room to rent.
 
-Extract the folder, put all files into same folder.
-
 Installation
 1. Install Tableau 10.0
 2. Install R, install packages “Rserve”
